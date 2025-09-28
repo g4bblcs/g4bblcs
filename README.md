@@ -47,7 +47,7 @@
 ## 🌌 Fun Facts    
 - 🎨 Obsessed with mixing code + art  
 - 🌙 Night owl fueled by music, tea & inspiration
-- 💜 Currently creating webtoons and Youtube videos related to my art
+- 💜 Currently creating [webtoons](https://www.webtoons.com/p/community/en/u/meikekii) and [Youtube](https://www.youtube.com/@meikekii) videos related to art and storyboards
 
 ---
 
