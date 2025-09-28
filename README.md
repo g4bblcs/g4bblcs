@@ -1,4 +1,4 @@
-# 🌙 Hey, I’m Gabriela Campo 
+# 🌙 Hi, I’m Gabriela Campo 
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=twinkling&fontAlignY=35&fontColor=ffffff)
 
