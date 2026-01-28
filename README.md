@@ -6,7 +6,7 @@
 ---
 
 ## 👾 About Me  
-- 🎓 Systems Engineering student (1st year)   
+- 🎓 Systems Engineering student (2nd year)   
 - 🎨 Artist + Creative Coder  
 - 🎮 Indie game developer in progress 
 - 🌱 Exploring **Game and Software development & Art/Storytelling**  
