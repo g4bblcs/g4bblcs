@@ -44,16 +44,12 @@
 ---
 ### 📊 GitHub Stats!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krl0sconk&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krl0sconk&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g4bblcs&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krl0sconk&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Langs" />
-</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer)
